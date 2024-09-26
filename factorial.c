@@ -1,4 +1,4 @@
-/*Write a C program that calculates the *factorial* of a given positive integer using a user-defined function.*/
+/*Write a function to find the largest number */
 
 #include <stdio.h>
 
