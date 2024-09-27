@@ -47,7 +47,7 @@ int main() {
             break;
 
         default:
-            printf("Invalid choice!\n");
+            printf("Enter a number between 1-4!\n");
     }
 
     return 0;
